@@ -1,0 +1,16 @@
+/* Cambiar el tamaño de fuente en todo el documento */
+body {
+  font-size: 16px;
+}
+
+/* Cambiar el tipo de letra en todo el documento */
+body {
+  font-family: "Arial", serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100vw; /* 100% del ancho de la ventana del navegador */
+  height: 100vh; /* 100% de la altura de la ventana del navegador */
+  }
